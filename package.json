@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An Amazon-esque application that allows a user to view all products available to them, decide whether or not they want to purchase an item, and then decide on the quantity they would like to purchase.",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "dotenv": "^6.2.0",
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syddunlap/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syddunlap/bamazon/issues"
+  },
+  "homepage": "https://github.com/syddunlap/bamazon#readme"
+}
